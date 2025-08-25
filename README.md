@@ -54,4 +54,3 @@ This project performs a cohort analysis to calculate the Lifetime Value (LTV) of
 ## Author
 
 - Mykyta Salykin
-- GitHub: [MykytaSalykin](https://github.com/MykytaSalykin)
